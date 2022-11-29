@@ -45,10 +45,10 @@ main .rating .rated {
   height: 5rem;
   margin-bottom: 1rem;
 }
-main .rating .rated picture {
+main .rating .rated .img-star {
   margin-bottom: 1rem;
 }
-main .rating .rated picture img {
+main .rating .rated .img-star img {
   width: 17px;
   height: 16px;
   margin-right: 0.5rem;
@@ -165,6 +165,19 @@ p {
     min-height: 27.125rem;
     margin-bottom: 0;
     padding-top: 9.125rem;
+  }
+  main .rating .rated {
+    flex-direction: row;
+    justify-content: flex-start;
+    width: 27.75rem;
+    height: 3.375rem;
+    padding-left: 2rem;
+  }
+  main .rating .rated .img-star {
+    margin-bottom: 0;
+  }
+  main .rating .rated h2 {
+    padding-left: 1.5rem;
   }
   main .testimonial {
     flex: 2;
