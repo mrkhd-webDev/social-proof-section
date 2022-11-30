@@ -20,7 +20,7 @@ Users should be able to:
 - View the optimal layout for the section depending on their device's screen size
 
 ### Screenshot
-![mrkhd-webdev github io_social-proof-section_](https://user-images.githubusercontent.com/85605446/204590188-20eb8ee6-660c-4a41-9cdc-cd9c3cfc7fb9.png)
+![mrkhd-webdev github io_social-proof-section_ (8)](https://user-images.githubusercontent.com/85605446/204597927-ef4e69b3-bb03-4080-838a-888d1e18ddff.png)
 
 ![mrkhd-webdev github io_social-proof-section_(iPhone 13 Mini) (1)](https://user-images.githubusercontent.com/85605446/204591974-3342622f-8e1e-4fef-a204-6fc0e19e34bb.png)
 
